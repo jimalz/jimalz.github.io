@@ -1,0 +1,1 @@
+jQuery(document).ready(function($){initAddLityToCoverVideoButton();function initAddLityToCoverVideoButton(){$('body:not(.rtl) .section-cover__btnSecondary').attr('data-lity','')}})
