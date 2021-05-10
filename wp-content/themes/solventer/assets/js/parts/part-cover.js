@@ -1,0 +1,1 @@
+jQuery(document).ready(function($){cover();function cover(){setTimeout(function(){$('.section-cover').addClass('section-cover-visible')},50)}})
