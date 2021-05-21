@@ -1,0 +1,2 @@
+jQuery(document).ready(function($){testimonials();function testimonials(){var rtl=$('body').hasClass('rtl');$('.section-testimonials').each(function(){var self=$(this),list=$('.section-testimonials__list',self);if(rtl){list.attr('dir','rtl')}
+list.slick({arrows:!1,fade:!0,dots:!0,rtl:rtl,cssEase:'ease-in-out',customPaging:function(slider,i){return'<span class="dot"/>'}})})}})
