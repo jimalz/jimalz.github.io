@@ -156,16 +156,16 @@
 @font-face {
   font-display: swap;
   font-family: connecteam;
-  src: url(../../../themes/connecteam/fonts/connecteam.eot?35948118);
-  src: url(../../../themes/connecteam/fonts/connecteam.eot?35948118#iefix)
+  src: url(../../../themes/solventer/fonts/connecteam.eot?35948118);
+  src: url(../../../themes/solventer/fonts/connecteam.eot?35948118#iefix)
       format("embedded-opentype"),
-    url(../../../themes/connecteam/fonts/connecteam.woff2?35948118)
+    url(../../../themes/solventer/fonts/connecteam.woff2?35948118)
       format("woff2"),
-    url(../../../themes/connecteam/fonts/connecteam.woff?35948118)
+    url(../../../themes/solventer/fonts/connecteam.woff?35948118)
       format("woff"),
-    url(../../../themes/connecteam/fonts/connecteam.ttf?35948118)
+    url(../../../themes/solventer/fonts/connecteam.ttf?35948118)
       format("truetype"),
-    url(../../../themes/connecteam/fonts/connecteam.svg?35948118#connecteam)
+    url(../../../themes/solventer/fonts/connecteam.svg?35948118#connecteam)
       format("svg");
   font-weight: 400;
   font-style: normal;
@@ -9793,16 +9793,16 @@ a:hover {
 }
 @font-face {
   font-family: poppins;
-  src: url(../../../themes/connecteam/assets/fonts/Poppins-SemiBold.eot);
-  src: url(../../../themes/connecteam/assets/fonts/Poppins-SemiBold.eot?#iefix)
+  src: url(../../../themes/solventer/assets/fonts/Poppins-SemiBold.eot);
+  src: url(../../../themes/solventer/assets/fonts/Poppins-SemiBold.eot?#iefix)
       format("embedded-opentype"),
-    url(../../../themes/connecteam/assets/fonts/Poppins-SemiBold.woff2)
+    url(../../../themes/solventer/assets/fonts/Poppins-SemiBold.woff2)
       format("woff2"),
-    url(../../../themes/connecteam/assets/fonts/Poppins-SemiBold.woff)
+    url(../../../themes/solventer/assets/fonts/Poppins-SemiBold.woff)
       format("woff"),
-    url(../../../themes/connecteam/assets/fonts/Poppins-SemiBold.ttf)
+    url(../../../themes/solventer/assets/fonts/Poppins-SemiBold.ttf)
       format("truetype"),
-    url(../../../themes/connecteam/assets/fonts/Poppins-SemiBold.svg#Poppins-SemiBold)
+    url(../../../themes/solventer/assets/fonts/Poppins-SemiBold.svg#Poppins-SemiBold)
       format("svg");
   font-weight: 600;
   font-style: normal;
@@ -9810,16 +9810,16 @@ a:hover {
 }
 @font-face {
   font-family: poppins;
-  src: url(../../../themes/connecteam/assets/fonts/Poppins-Regular.eot);
-  src: url(../../../themes/connecteam/assets/fonts/Poppins-Regular.eot?#iefix)
+  src: url(../../../themes/solventer/assets/fonts/Poppins-Regular.eot);
+  src: url(../../../themes/solventer/assets/fonts/Poppins-Regular.eot?#iefix)
       format("embedded-opentype"),
-    url(../../../themes/connecteam/assets/fonts/Poppins-Regular.woff2)
+    url(../../../themes/solventer/assets/fonts/Poppins-Regular.woff2)
       format("woff2"),
-    url(../../../themes/connecteam/assets/fonts/Poppins-Regular.woff)
+    url(../../../themes/solventer/assets/fonts/Poppins-Regular.woff)
       format("woff"),
-    url(../../../themes/connecteam/assets/fonts/Poppins-Regular.ttf)
+    url(../../../themes/solventer/assets/fonts/Poppins-Regular.ttf)
       format("truetype"),
-    url(../../../themes/connecteam/assets/fonts/Poppins-Regular.svg#Poppins-Regular)
+    url(../../../themes/solventer/assets/fonts/Poppins-Regular.svg#Poppins-Regular)
       format("svg");
   font-weight: 400;
   font-style: normal;
@@ -9827,16 +9827,16 @@ a:hover {
 }
 @font-face {
   font-family: poppins;
-  src: url(../../../themes/connecteam/assets/fonts/Poppins-Bold.eot);
-  src: url(../../../themes/connecteam/assets/fonts/Poppins-Bold.eot?#iefix)
+  src: url(../../../themes/solventer/assets/fonts/Poppins-Bold.eot);
+  src: url(../../../themes/solventer/assets/fonts/Poppins-Bold.eot?#iefix)
       format("embedded-opentype"),
-    url(../../../themes/connecteam/assets/fonts/Poppins-Bold.woff2)
+    url(../../../themes/solventer/assets/fonts/Poppins-Bold.woff2)
       format("woff2"),
-    url(../../../themes/connecteam/assets/fonts/Poppins-Bold.woff)
+    url(../../../themes/solventer/assets/fonts/Poppins-Bold.woff)
       format("woff"),
-    url(../../../themes/connecteam/assets/fonts/Poppins-Bold.ttf)
+    url(../../../themes/solventer/assets/fonts/Poppins-Bold.ttf)
       format("truetype"),
-    url(../../../themes/connecteam/assets/fonts/Poppins-Bold.svg#Poppins-Bold)
+    url(../../../themes/solventer/assets/fonts/Poppins-Bold.svg#Poppins-Bold)
       format("svg");
   font-weight: 700;
   font-style: normal;
@@ -9844,16 +9844,16 @@ a:hover {
 }
 @font-face {
   font-family: poppins;
-  src: url(../../../themes/connecteam/assets/fonts/Poppins-Light.eot);
-  src: url(../../../themes/connecteam/assets/fonts/Poppins-Light.eot?#iefix)
+  src: url(../../../themes/solventer/assets/fonts/Poppins-Light.eot);
+  src: url(../../../themes/solventer/assets/fonts/Poppins-Light.eot?#iefix)
       format("embedded-opentype"),
-    url(../../../themes/connecteam/assets/fonts/Poppins-Light.woff2)
+    url(../../../themes/solventer/assets/fonts/Poppins-Light.woff2)
       format("woff2"),
-    url(../../../themes/connecteam/assets/fonts/Poppins-Light.woff)
+    url(../../../themes/solventer/assets/fonts/Poppins-Light.woff)
       format("woff"),
-    url(../../../themes/connecteam/assets/fonts/Poppins-Light.ttf)
+    url(../../../themes/solventer/assets/fonts/Poppins-Light.ttf)
       format("truetype"),
-    url(../../../themes/connecteam/assets/fonts/Poppins-Light.svg#Poppins-Light)
+    url(../../../themes/solventer/assets/fonts/Poppins-Light.svg#Poppins-Light)
       format("svg");
   font-weight: 300;
   font-style: normal;
@@ -9861,16 +9861,16 @@ a:hover {
 }
 @font-face {
   font-family: poppins;
-  src: url(../../../themes/connecteam/assets/fonts/Poppins-ExtraBold.eot);
-  src: url(../../../themes/connecteam/assets/fonts/Poppins-ExtraBold.eot?#iefix)
+  src: url(../../../themes/solventer/assets/fonts/Poppins-ExtraBold.eot);
+  src: url(../../../themes/solventer/assets/fonts/Poppins-ExtraBold.eot?#iefix)
       format("embedded-opentype"),
-    url(../../../themes/connecteam/assets/fonts/Poppins-ExtraBold.woff2)
+    url(../../../themes/solventer/assets/fonts/Poppins-ExtraBold.woff2)
       format("woff2"),
-    url(../../../themes/connecteam/assets/fonts/Poppins-ExtraBold.woff)
+    url(../../../themes/solventer/assets/fonts/Poppins-ExtraBold.woff)
       format("woff"),
-    url(../../../themes/connecteam/assets/fonts/Poppins-ExtraBold.ttf)
+    url(../../../themes/solventer/assets/fonts/Poppins-ExtraBold.ttf)
       format("truetype"),
-    url(../../../themes/connecteam/assets/fonts/Poppins-ExtraBold.svg#Poppins-ExtraBold)
+    url(../../../themes/solventer/assets/fonts/Poppins-ExtraBold.svg#Poppins-ExtraBold)
       format("svg");
   font-weight: 800;
   font-style: normal;
@@ -9878,15 +9878,15 @@ a:hover {
 }
 @font-face {
   font-family: inter;
-  src: url(../../../themes/connecteam/assets/fonts/Inter-Light.eot);
-  src: url(../../../themes/connecteam/assets/fonts/Inter-Light.eot?#iefix)
+  src: url(../../../themes/solventer/assets/fonts/Inter-Light.eot);
+  src: url(../../../themes/solventer/assets/fonts/Inter-Light.eot?#iefix)
       format("embedded-opentype"),
-    url(../../../themes/connecteam/assets/fonts/Inter-Light.woff2)
+    url(../../../themes/solventer/assets/fonts/Inter-Light.woff2)
       format("woff2"),
-    url(../../../themes/connecteam/assets/fonts/Inter-Light.woff) format("woff"),
-    url(../../../themes/connecteam/assets/fonts/Inter-Light.ttf)
+    url(../../../themes/solventer/assets/fonts/Inter-Light.woff) format("woff"),
+    url(../../../themes/solventer/assets/fonts/Inter-Light.ttf)
       format("truetype"),
-    url(../../../themes/connecteam/assets/fonts/Inter-Light.svg#Inter-Light)
+    url(../../../themes/solventer/assets/fonts/Inter-Light.svg#Inter-Light)
       format("svg");
   font-weight: 300;
   font-style: normal;
@@ -9894,16 +9894,16 @@ a:hover {
 }
 @font-face {
   font-family: inter;
-  src: url(../../../themes/connecteam/assets/fonts/Inter-Regular.eot);
-  src: url(../../../themes/connecteam/assets/fonts/Inter-Regular.eot?#iefix)
+  src: url(../../../themes/solventer/assets/fonts/Inter-Regular.eot);
+  src: url(../../../themes/solventer/assets/fonts/Inter-Regular.eot?#iefix)
       format("embedded-opentype"),
-    url(../../../themes/connecteam/assets/fonts/Inter-Regular.woff2)
+    url(../../../themes/solventer/assets/fonts/Inter-Regular.woff2)
       format("woff2"),
-    url(../../../themes/connecteam/assets/fonts/Inter-Regular.woff)
+    url(../../../themes/solventer/assets/fonts/Inter-Regular.woff)
       format("woff"),
-    url(../../../themes/connecteam/assets/fonts/Inter-Regular.ttf)
+    url(../../../themes/solventer/assets/fonts/Inter-Regular.ttf)
       format("truetype"),
-    url(../../../themes/connecteam/assets/fonts/Inter-Regular.svg#Inter-Regular)
+    url(../../../themes/solventer/assets/fonts/Inter-Regular.svg#Inter-Regular)
       format("svg");
   font-weight: 400;
   font-style: normal;
@@ -9911,15 +9911,15 @@ a:hover {
 }
 @font-face {
   font-family: inter;
-  src: url(../../../themes/connecteam/assets/fonts/Inter-Bold.eot);
-  src: url(../../../themes/connecteam/assets/fonts/Inter-Bold.eot?#iefix)
+  src: url(../../../themes/solventer/assets/fonts/Inter-Bold.eot);
+  src: url(../../../themes/solventer/assets/fonts/Inter-Bold.eot?#iefix)
       format("embedded-opentype"),
-    url(../../../themes/connecteam/assets/fonts/Inter-Bold.woff2)
+    url(../../../themes/solventer/assets/fonts/Inter-Bold.woff2)
       format("woff2"),
-    url(../../../themes/connecteam/assets/fonts/Inter-Bold.woff) format("woff"),
-    url(../../../themes/connecteam/assets/fonts/Inter-Bold.ttf)
+    url(../../../themes/solventer/assets/fonts/Inter-Bold.woff) format("woff"),
+    url(../../../themes/solventer/assets/fonts/Inter-Bold.ttf)
       format("truetype"),
-    url(../../../themes/connecteam/assets/fonts/Inter-Bold.svg#Inter-Bold)
+    url(../../../themes/solventer/assets/fonts/Inter-Bold.svg#Inter-Bold)
       format("svg");
   font-weight: 700;
   font-style: normal;
@@ -9927,16 +9927,16 @@ a:hover {
 }
 @font-face {
   font-family: inter;
-  src: url(../../../themes/connecteam/assets/fonts/Inter-SemiBold.eot);
-  src: url(../../../themes/connecteam/assets/fonts/Inter-SemiBold.eot?#iefix)
+  src: url(../../../themes/solventer/assets/fonts/Inter-SemiBold.eot);
+  src: url(../../../themes/solventer/assets/fonts/Inter-SemiBold.eot?#iefix)
       format("embedded-opentype"),
-    url(../../../themes/connecteam/assets/fonts/Inter-SemiBold.woff2)
+    url(../../../themes/solventer/assets/fonts/Inter-SemiBold.woff2)
       format("woff2"),
-    url(../../../themes/connecteam/assets/fonts/Inter-SemiBold.woff)
+    url(../../../themes/solventer/assets/fonts/Inter-SemiBold.woff)
       format("woff"),
-    url(../../../themes/connecteam/assets/fonts/Inter-SemiBold.ttf)
+    url(../../../themes/solventer/assets/fonts/Inter-SemiBold.ttf)
       format("truetype"),
-    url(../../../themes/connecteam/assets/fonts/Inter-SemiBold.svg#Inter-SemiBold)
+    url(../../../themes/solventer/assets/fonts/Inter-SemiBold.svg#Inter-SemiBold)
       format("svg");
   font-weight: 600;
   font-style: normal;
@@ -18468,7 +18468,7 @@ body.error404 .tablecell_for_center {
   input[type="checkbox"]:checked
   + .wpcf7-list-item-label:before {
   background-color: #01c8c0;
-  background-image: url(../../../themes/connecteam/assets/images/templates/home/icon-checkmark.svg);
+  background-image: url(../../../themes/solventer/assets/images/templates/home/icon-checkmark.svg);
   background-position: center;
   background-repeat: no-repeat;
   background-size: 16px;
