@@ -155,24 +155,24 @@
 }
 @font-face {
   font-display: swap;
-  font-family: connecteam;
-  src: url(../../../themes/solventer/fonts/connecteam.eot?35948118);
-  src: url(../../../themes/solventer/fonts/connecteam.eot?35948118#iefix)
+  font-family: solventer;
+  src: url(../../../themes/solventer/fonts/solventer.eot?35948118);
+  src: url(../../../themes/solventer/fonts/solventer.eot?35948118#iefix)
       format("embedded-opentype"),
-    url(../../../themes/solventer/fonts/connecteam.woff2?35948118)
+    url(../../../themes/solventer/fonts/solventer.woff2?35948118)
       format("woff2"),
-    url(../../../themes/solventer/fonts/connecteam.woff?35948118)
+    url(../../../themes/solventer/fonts/solventer.woff?35948118)
       format("woff"),
-    url(../../../themes/solventer/fonts/connecteam.ttf?35948118)
+    url(../../../themes/solventer/fonts/solventer.ttf?35948118)
       format("truetype"),
-    url(../../../themes/solventer/fonts/connecteam.svg?35948118#connecteam)
+    url(../../../themes/solventer/fonts/solventer.svg?35948118#solventer)
       format("svg");
   font-weight: 400;
   font-style: normal;
 }
 [class^="icon-"]:before,
 [class*=" icon-"]:before {
-  font-family: connecteam;
+  font-family: solventer;
   font-style: normal;
   font-weight: 400;
   speak: none;
@@ -2722,7 +2722,7 @@ ul#main_menu li ul.sub-menu li a {
 }
 ul#main_menu li ul.sub-menu li a:before {
   content: "\e871";
-  font-family: connecteam;
+  font-family: solventer;
   font-size: 40px;
   opacity: 0.8;
   -ms-filter: "alpha(opacity=80)";
@@ -3120,7 +3120,7 @@ ul.mobile-menu ul.sub-menu li a {
 }
 ul.mobile-menu ul.sub-menu li a:before {
   content: "\e871";
-  font-family: connecteam;
+  font-family: solventer;
   font-size: 40px;
   opacity: 0.8;
   -ms-filter: "alpha(opacity=80)";
